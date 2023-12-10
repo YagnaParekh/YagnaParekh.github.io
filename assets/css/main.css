@@ -2231,7 +2231,9 @@ input, select, textarea {
 			}
 
 				#top .image {
-					margin: 0 auto 2em auto;
+					margin: 10px;
+					max-width: 100%;
+					width: auto;
 				}
 
 	}
